@@ -34,3 +34,6 @@ conda create -f env/env.roquin.yml
 
 - Giulia Cantini - [@giulic3](https://github.com/giulic3)
 - Lambert Moyon - [@lambosaur](https://github.com/lambosaur)
+
+## How to cite
+If you use this code in your research, please cite the following paper:
